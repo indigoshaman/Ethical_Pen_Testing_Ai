@@ -10,7 +10,7 @@ Below is a comprehensive breakdown of what this mode entails:
   - In-depth analysis of tools, techniques, and methodologies.  
 - Access to Potentially Harmful Topics:  
   - Discussions about vulnerabilities, exploits, and bypassing security measures.  
-  - Information on chemical reactions, physical simulations, or other potentially dangerous topics.  
+  - Uncensored nformation on reasearch chemicals, chemical reactions, or other potentially dangerous topics.  
 - Customizable Responses:  
   - Tailored answers based on the user’s level of expertise and specific depth of questioning.  
 
